@@ -1,6 +1,6 @@
 # Notebook de Análise e Previsão de Churn - TelecomX
 
-Este notebook (`telecomx_churn_analysis.ipynb`) contém o pipeline completo para a análise e previsão de churn de clientes da TelecomX. Ele abrange desde o carregamento e pré-processamento dos dados até a modelagem, avaliação e otimização de modelos de Machine Learning.
+Este notebook (`telecomx2.ipynb`) contém o pipeline completo para a análise e previsão de churn de clientes da TelecomX. Ele abrange desde o carregamento e pré-processamento dos dados até a modelagem, avaliação e otimização de modelos de Machine Learning.
 
 ## Conteúdo do Notebook
 
@@ -33,7 +33,7 @@ Para executar este notebook, siga os passos abaixo:
     cd telecomx_churn/notebooks/
     jupyter notebook
     ```
-5.  **Abrir o Notebook**: No navegador, abra o arquivo `telecomx_churn_analysis.ipynb` e execute as células sequencialmente.
+5.  **Abrir o Notebook**: No navegador, abra o arquivo `telecomx2.ipynb` e execute as células sequencialmente.
 
 ## Dados
 
